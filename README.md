@@ -524,3 +524,8 @@ Name: Shreya Jain
 Bio: Student
 Place: India
 Github: https://github.com/sj97/
+
+Name: Josh Peterson
+Bio: MLS
+Place: Minnesota
+
